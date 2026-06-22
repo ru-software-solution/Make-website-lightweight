@@ -1,8 +1,6 @@
-<h4 align="right"><strong>English</strong> | <a href="README_CN.md">简体中文</a></h4>
-<p align="center">
-    <img src=https://gw.alipayobjects.com/zos/k/fa/logo-modified.png width=138/>
-</p>
-<h1 align="center">Pake</h1>
+
+
+<h1 align="center">Make-website-lightweight</h1>
 <p align="center"><strong>Turn any webpage into a desktop app with one command, supports macOS, Windows, and Linux</strong></p>
 <div align="center">
     <a href="https://twitter.com/HiTw93" target="_blank">
